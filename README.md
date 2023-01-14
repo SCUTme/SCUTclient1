@@ -1,5 +1,6 @@
 scutclient
 =================
+声明：此版本仅用于SCUT_zhe用于编译自用的openwrt插件
 
 SCUT Dr.com(X) client written in C.
 
